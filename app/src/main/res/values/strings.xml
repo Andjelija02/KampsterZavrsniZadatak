@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KampsterZavrsniZadatak</string>
+    <string name="btn1_text">Promeni boju dugmeta</string>
+    <string name="btn2_text">Pusti muziku</string>
+    <string name="btn3_text">Idi na sledecu aktivnost</string>
+    <string name="text">Upisite broj 1, 2 ili 3 za prikaz neke od 3 fotografije</string>
+    <string name="toast">Neispravan unos, unesite ili broj 1 ili 2 ili 3</string>
+</resources>
